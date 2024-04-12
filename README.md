@@ -15,5 +15,7 @@ def create_window(width, height, title):
     root.geometry(f"{width}x{height}")
     root.mainloop()
 
-create_window(300, 200, "My Tk Window")
+create_window(300, 200, "My Tk Window")```
+
+
 Make sure you've got enough screen space before running the code!
